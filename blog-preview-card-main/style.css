@@ -1,0 +1,66 @@
+body{
+    background-color: hsl(47, 88%, 63%);
+    width: 100%;
+    min-height: 100vh;
+}
+.whiteContainer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 20px;
+    background-color:white;
+    width: 310px;
+    height: 450px;
+    margin-top: 160px;
+    margin-left: 38%;
+    box-shadow: 6px 6px black;
+}
+.img{
+    width: 260px;
+    border-radius: 10px;
+    margin-top: -14px;
+    margin-left: 26px;
+}
+.learning{
+    display: flex;
+    background-color:  hsl(47, 88%, 63%) ;
+    width: 70px;
+    height: 25px;
+    border-radius: 5px;
+}
+.text{
+    font: 10px;
+    display: flex;
+    margin-top: 2px;
+    margin-left: 3px;
+    justify-content: center;
+}
+h1{
+    font-size: 20px;
+}
+h2{
+    font-size: 14px;
+    margin-top: 22px;
+    margin-left: 10px;
+}
+p{
+    font-size: 14px;
+}
+.textPortion{
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.date{
+    margin-top: 15px; 
+    font-size: 13px;
+}
+.circle-img{
+   margin-top: 10px;
+}
+.name-img{
+    display: flex;
+}
+.attribution{
+    margin-top: 10px;
+    margin-left: 90px
+}
